@@ -2,9 +2,9 @@
 
 # remember if you want to test any js codes in each module you need to link the script in the html e.g
 
-<!-- <script src="js/01-console.js"></script> -->
+<script src="js/01-console.js"></script>
 
-<!-- you can see the name of the js linked to the html above as "js/01-console.js" -->
+you can see the name of the js linked to the html above as "js/01-console.js"
 
 # OR you can link the app.js and copy each module to it for experiment.
 
