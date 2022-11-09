@@ -4,6 +4,10 @@
 
 <script src="js/01-console.js"></script>
 
+//OR
+
+//USE REPLIT.COM TO TEST IT.
+
 you can see the name of the js linked to the html above as "js/01-console.js"
 
 # OR you can link the app.js and copy each module to it for experiment.
